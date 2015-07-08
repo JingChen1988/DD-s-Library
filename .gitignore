@@ -1,0 +1,11 @@
+#Unity File
+Library/
+obj/
+Temp/
+*.csproj
+*.sln
+*.DotSettings
+*.suo
+*.unityproj
+*.userprefs
+*.DS_Store
