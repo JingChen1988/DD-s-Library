@@ -1,5 +1,8 @@
 #Unity File
-Library/
+Library/metadata
+Library/ScriptAssemblies
+Library/ShaderCache
+Library/UnityAssemblies
 obj/
 Temp/
 *.csproj
